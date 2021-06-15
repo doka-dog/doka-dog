@@ -8,4 +8,4 @@
 - 📫 Напиши мне на почту: feedback@y-doka.site
 - ⚡ Забавный факт: Гав-гав
 
-[Исследователь](https://raw.githubusercontent.com/doka-guide/badges/main/images/badges/explorer.svg)
+![Исследователь](https://github.com/doka-guide/badges/raw/main/images/badges/explorer.svg)
